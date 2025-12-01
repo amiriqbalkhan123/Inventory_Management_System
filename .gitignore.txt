@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# PyCharm files
+.idea/
+
+# Logs
+*.log
+
+# Backup
+*.bak
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Runtime files
+*.db
+*.sqlite3
+
+# Reports cache (matplotlib)
+*.cache

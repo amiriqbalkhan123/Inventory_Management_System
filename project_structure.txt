@@ -1,0 +1,90 @@
+Folder PATH listing for volume Windows
+Volume serial number is EC5B-487E
+C:.
+¦   category.py
+¦   category_report.py
+¦   customer_table.py
+¦   dashboard.py
+¦   database.py
+¦   developer.py
+¦   employees.py
+¦   employee_report.py
+¦   etc.py
+¦   inventory_report.py
+¦   login_logup.py
+¦   products.py
+¦   project_structure.txt
+¦   reports.py
+¦   sales.py
+¦   sales_report.py
+¦   supplier.py
+¦   suppliers_report.py
+¦   test_db_connection.py
+¦   transaction_table.py
+¦   utils.py
+¦   WinkyRough-VariableFont_wght.ttf
+¦   
++---.idea
+¦   ¦   .gitignore
+¦   ¦   Inventory_Management_System.iml
+¦   ¦   misc.xml
+¦   ¦   modules.xml
+¦   ¦   
+¦   +---inspectionProfiles
+¦           profiles_settings.xml
+¦           
++---images
+¦       789.png
+¦       AIK.ico
+¦       AIK.png
+¦       back.png
+¦       backphoto.jpg
+¦       bag.png
+¦       cat555.png
+¦       category.png
+¦       category123.png
+¦       category24.png
+¦       category64.png
+¦       emp350.png
+¦       employee.png
+¦       employee24.png
+¦       employee64.png
+¦       exit.png
+¦       fg.png
+¦       icon.png
+¦       information.png
+¦       loginback.png
+¦       product.png
+¦       product24.png
+¦       sales.png
+¦       supplier.png
+¦       supplier24.png
+¦       supplier64.png
+¦       total_cat.png
+¦       total_emp.png
+¦       total_prod.png
+¦       total_sales.png
+¦       total_sup.png
+¦       
++---__pycache__
+        category.cpython-39.pyc
+        category_report.cpython-39.pyc
+        customer_table.cpython-39.pyc
+        dashboard.cpython-313.pyc
+        dashboard.cpython-39.pyc
+        database.cpython-39.pyc
+        developer.cpython-39.pyc
+        employees.cpython-311.pyc
+        employees.cpython-313.pyc
+        employees.cpython-39.pyc
+        employee_report.cpython-39.pyc
+        inventory_report.cpython-39.pyc
+        login_logup.cpython-39.pyc
+        products.cpython-39.pyc
+        reports.cpython-39.pyc
+        sales.cpython-39.pyc
+        sales_report.cpython-39.pyc
+        supplier.cpython-39.pyc
+        suppliers_report.cpython-39.pyc
+        transaction_table.cpython-39.pyc
+        
